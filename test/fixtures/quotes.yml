@@ -1,7 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+first:
+  name: MyString1
 
-two:
-  name: MyString
+second:
+  name: MyString2
+
+third:
+  name: MyString3
+
+fourth:
+  name: MyString4
+
+fifth:
+  name: MyString5
